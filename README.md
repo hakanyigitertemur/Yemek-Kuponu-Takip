@@ -7,6 +7,8 @@ Bu proje, popüler forumlardaki açılan konuları takip ederek kullanıcılara 
 
 Proje, belirlenen forum sitelerini düzenli olarak tarar ve kullanıcı tarafından belirlenen kriterlere uygun yeni yemek indirim kuponlarını bulur. Bulunan kuponlar, kullanıcıya bildirim veya rapor aracılığıyla iletilir.
 
+![image](https://github.com/hakanyigitertemur/Yemek-Kuponu-Takip/assets/33597587/3ac205be-92d8-4f18-8a2f-44d73c4de793)
+![image](https://github.com/hakanyigitertemur/Yemek-Kuponu-Takip/assets/33597587/cb49e0ec-5569-43c3-8645-61704e828162)
 
 
 ## Özellikler
