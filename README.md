@@ -26,7 +26,7 @@ Proje, belirlenen forum sitelerini düzenli olarak tarar ve kullanıcı tarafın
 
 ## Lisans
 
-Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır. Detaylı bilgi için lisans dosyasını kontrol edin.
+Bu proje [Apache-2.0 license](LICENSE) altında lisanslanmıştır. Detaylı bilgi için lisans dosyasını kontrol edin.
 
 ---
 **Not:** Projeyi kullanmadan önce, forum sitelerinin kullanım şartlarını ve koşullarını dikkatlice inceleyin ve uygun şekilde kullanmaya özen gösterin.
